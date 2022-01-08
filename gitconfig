@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = a.k.kleine@posteo.de
+	name = Anne-Kathrin Kleine
